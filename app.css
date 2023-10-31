@@ -308,6 +308,7 @@ button {
 
 .p-box {
   margin: 0px auto !important;
+  max-width: 700px;
 }
 .text p {
   font-size: 1.1em;
