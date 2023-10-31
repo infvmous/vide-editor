@@ -305,6 +305,10 @@ button {
   line-height: 1em;
   text-transform: uppercase;
 }
+
+.p-box {
+  margin: 0px auto !important;
+}
 .text p {
   font-size: 1.1em;
   color: #fff;
